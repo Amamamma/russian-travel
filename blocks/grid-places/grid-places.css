@@ -8,3 +8,9 @@
   grid-gap: 80px 40px;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
 }
+
+@media screen and (max-width: 768px) {
+  .grid-places {
+    grid-gap: 72px 28px;
+  }
+}
