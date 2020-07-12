@@ -12,3 +12,7 @@
   background-position: center;
   background-size: cover;
 }
+
+.cover__overlay-pic:hover {
+  opacity: .2;
+}
