@@ -1,0 +1,11 @@
+.grid-places__text {
+  max-width: 484px;
+  margin: 0 0 24px;
+
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.grid-places__text:last-child {
+  margin: 0;
+}
