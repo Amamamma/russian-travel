@@ -28,3 +28,8 @@
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__title/intro__title.css);
+
+/* Grid-photo */
+
+@import url(../blocks/grid-photo/grid-photo.css);
+@import url(../blocks/grid-photo/__item/grid-photo__item.css);

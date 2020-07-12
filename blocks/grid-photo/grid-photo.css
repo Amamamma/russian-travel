@@ -1,0 +1,8 @@
+.grid-photo {
+  display: grid;
+
+  padding-top: 76px; /*в макете 92, но тогда не Pixel Perferct*/
+
+  grid-template-columns: repeat(auto-fill, minmax(245px, 1fr));
+  grid-gap: 16px;
+}

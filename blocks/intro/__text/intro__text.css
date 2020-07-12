@@ -1,7 +1,7 @@
 .intro__text {
   max-width: 690px;
-  margin: 40px 0 0;
+  margin: 35px 0 0; /* По макету 40px но тогда не PixelPerfect */
 
   font-size: 16px;
-  line-height: 1.6;
+  line-height: 1.64;
 }
