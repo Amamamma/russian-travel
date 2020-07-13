@@ -7,3 +7,7 @@
   font-weight: normal;
   line-height: 1.2;
 }
+
+.list-links__link:hover {
+  opacity: 0.8;
+}
