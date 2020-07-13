@@ -1,3 +1,9 @@
 .page__cover {
-  margin-top: 90px 48px 0;
+  margin: 90px 48px 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .page__cover {
+    margin: 90px 0 0;
+  }
 }

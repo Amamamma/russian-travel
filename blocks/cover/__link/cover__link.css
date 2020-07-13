@@ -1,4 +1,9 @@
 .cover__link {
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  left: 0;
+
   display: inline-block;
 
   width: 100%;
