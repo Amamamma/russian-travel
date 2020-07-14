@@ -10,8 +10,10 @@
   height: 740px;
 
 
-  background-image: url(../../images/cover-trains.jpg);
-  background-size: cover;
+  background: url(../../images/cover-trains.jpg);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .cover::after {
@@ -43,6 +45,12 @@
 @media screen and (max-width: 768px) {
   .cover {
     height: 480px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover {
+    height: 200px;
   }
 }
 
