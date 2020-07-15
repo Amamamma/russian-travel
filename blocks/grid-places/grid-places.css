@@ -1,16 +1,11 @@
 .grid-places {
-  display: grid;
-
   max-width: 984px;
   margin: 0 auto;
-  padding: 92px 148px 0;
-
-  grid-gap: 80px 40px;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  padding: 0 24px;
 }
 
 @media screen and (max-width: 768px) {
   .grid-places {
-    grid-gap: 72px 28px;
+    padding: 0;
   }
 }

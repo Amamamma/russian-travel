@@ -1,5 +1,10 @@
 .grid-places__image {
   max-width: 460px;
-  padding-top: 48px;
 }
 
+@media screen and (max-width: 768px) {
+  .grid-places__image {
+    max-width: 100%;
+    margin-bottom: 32px;
+  }
+}

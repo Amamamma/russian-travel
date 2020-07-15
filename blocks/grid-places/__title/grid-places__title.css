@@ -6,14 +6,15 @@
   line-height: 1.06;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 768px) {
   .grid-places__title {
     font-size: 42px;
     line-height: 1.10;
+    margin-bottom: 32px;
   }
 }
 
-@media screen and (max-width: 425px){
+@media screen and (max-width: 425px) {
   .grid-places__title {
     font-size: 32px;
     line-height: 1.10;
