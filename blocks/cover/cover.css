@@ -35,15 +35,33 @@
   opacity: .8;
 }
 
+@media screen and (max-width: 1152px) {
+  .cover {
+    height: 690px;
+  }
+}
+
 @media screen and (max-width: 1024px) {
   .cover {
     height: 640px;
   }
 }
 
+@media screen and (max-width: 896px) {
+  .cover {
+    height: 560px;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .cover {
-    height: 480px;
+    height: 400px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .cover {
+    height: 340px;
   }
 }
 
