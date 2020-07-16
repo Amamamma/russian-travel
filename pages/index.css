@@ -10,8 +10,6 @@
 @import url(../blocks/list-links/list-links.css);
 @import url(../blocks/list-links/__item/list-links__item.css);
 @import url(../blocks/list-links/__link/list-links__link.css);
-@import url(../blocks/list-links/__link/_place/list-links__link_place_footer.css);
-@import url(../blocks/list-links/__link/_place/list-links__link_place_header.css);
 @import url(../blocks/list-links/__link/_active/list-links__link_active.css);
 
 /* Lead */
