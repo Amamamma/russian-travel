@@ -6,7 +6,7 @@
   flex-direction: column;
   justify-content: center;
 
-  max-width: 1184px;
+  max-width: 100%;
   height: 740px;
 
   background: url(../../images/cover-trains.jpg);
@@ -55,7 +55,7 @@
 
 @media screen and (max-width: 768px) {
   .cover {
-    height: 400px;
+    height: 500px;
   }
 }
 
