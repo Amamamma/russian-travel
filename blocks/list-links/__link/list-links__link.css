@@ -11,3 +11,9 @@
 .list-links__link:hover {
   opacity: 0.8;
 }
+
+@media screen and (max-width: 1024px) {
+  .list-links__link {
+    font-size: 18px;
+  }
+}
