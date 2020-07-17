@@ -4,7 +4,7 @@
   padding: 0 24px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 740px) {
   .grid-places {
     padding: 0;
   }

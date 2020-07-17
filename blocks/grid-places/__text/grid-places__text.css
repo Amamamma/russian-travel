@@ -4,13 +4,14 @@
 
   font-size: 18px;
   line-height: 1.6;
+
 }
 
 .grid-places__text:last-child {
   margin: 0 16px 0px;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1024px){
   .grid-places__text {
     font-size: 16px;
     line-height: 1.62;
