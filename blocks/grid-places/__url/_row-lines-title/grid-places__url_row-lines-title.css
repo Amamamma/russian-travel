@@ -1,9 +1,0 @@
-.grid-places__url_row-lines-title {
-  margin-top: 92px;
-}
-
-@media screen and (max-width: 768px){
-  .grid-places__url_row-lines-title {
-    margin-top: 0;
-  }
-}

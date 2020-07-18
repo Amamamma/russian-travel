@@ -2,15 +2,22 @@
   margin: 90px 48px 0;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1152px) {
   .page__cover {
-    margin: 88px 0 0;
+    margin: 92px 0 0;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 956px) {
   .page__cover {
-    margin: 88px 0 0;
+    margin: 82px 0 0;
   }
 }
+
+@media screen and (max-width: 576px) {
+  .page__cover {
+    margin: 64px 0 0;
+  }
+}
+
 
